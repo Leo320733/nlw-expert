@@ -4,7 +4,7 @@
 
 - HTML
 - CSS
--Javascript
--GitHub
+- Javascript
+- GitHub
 
 evento do Rocketseat
